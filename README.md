@@ -1,16 +1,23 @@
-# faceentry
+# FaceEntry: Aplikasi Absensi Berbasis Face Recognition dan Barcode
 
-aplikasi presensi
+FaceEntry adalah aplikasi absensi modern yang mengintegrasikan teknologi pengenalan wajah (face recognition) dan pemindaian barcode untuk solusi absensi yang cepat, akurat, dan aman. Dirancang untuk efisiensi di berbagai lingkungan, mulai dari perkantoran hingga institusi pendidikan.
 
-## Getting Started
+## Daftar Isi
 
-This project is a starting point for a Flutter application.
+- [Fitur Utama]
+- Face Recognition Untuk Check in
+- Barcode Untuk Check in
+  
+- [Teknologi yang Digunakan]
+  - Python Backend Api 
+  - Flutter
+  - Facenet
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Struktur Proyek]
+  Comming soon
+- 
+- [Kontribusi]
+- 
+- [Lisensi]
+- [Kontak]
+  BagasPraaaaaaa
