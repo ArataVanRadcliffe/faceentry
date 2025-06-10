@@ -4,20 +4,20 @@ FaceEntry adalah aplikasi absensi modern yang mengintegrasikan teknologi pengena
 
 ## Daftar Isi
 
-- [Fitur Utama]
+## Fitur Utama
 - Face Recognition Untuk Check in
 - Barcode Untuk Check in
   
-- [Teknologi yang Digunakan]
+## [Teknologi yang Digunakan
   - Python Backend Api 
   - Flutter
   - Facenet
 
-- [Struktur Proyek]
+## [Struktur Proyek]
   Comming soon
 - 
-- [Kontribusi]
+## [Kontribusi]
 - 
-- [Lisensi]
-- [Kontak]
+## [Lisensi]
+##[Kontak]
   BagasPraaaaaaa
